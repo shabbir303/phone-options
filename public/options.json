@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": "$9.99/month",
+      "features": [
+        "Unlimited Bandwidth",
+        "10 GB Storage",
+        "24/7 Customer Support",
+        "Up to 5 Email Accounts",
+        "Mobile App Access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Plan",
+      "price": "$19.99/month",
+      "features": [
+        "Unlimited Bandwidth",
+        "50 GB Storage",
+        "24/7 Customer Support",
+        "Up to 10 Email Accounts",
+        "Advanced Security Features"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Business Plan",
+      "price": "$49.99/month",
+      "features": [
+        "Unlimited Bandwidth",
+        "100 GB Storage",
+        "24/7 Priority Customer Support",
+        "Up to 20 Email Accounts",
+        "Custom Domain Hosting",
+        "E-commerce Integration"
+      ]
+    }
+  ]
+  
